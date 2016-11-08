@@ -1,0 +1,17 @@
+{
+  "name": "SampleBots",
+  "version": "1.0.0",
+  "description": "Samples of Slack bots made with Botkit",
+  "repository": {
+    "url": "https://github.com/nazieb/samplebots.git",
+    "type": "git"
+  },
+  "author": "Ainun Nazieb <ainun@nazieb.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.4.1"
+  },
+  "scripts": {
+    "start": "node simple.js"
+  }
+}
