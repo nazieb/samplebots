@@ -9,7 +9,8 @@
   "author": "Ainun Nazieb <ainun@nazieb.com>",
   "license": "MIT",
   "dependencies": {
-    "botkit": "^0.4.1"
+    "botkit": "^0.4.1",
+    "twitter": "^1.4.0"
   },
   "scripts": {
     "start": "node simple.js"
